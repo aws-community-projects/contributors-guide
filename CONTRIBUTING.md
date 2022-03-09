@@ -27,3 +27,7 @@ Accepting pull requests from contributors outside the Project Owners or outside 
 # Stale Projects
 
 A yet-undefined process may be implemented in the future for pruning stale projects and ensuring all the content here is current.
+
+# NDA
+
+Some contributors to this Organization may have access to materials that are available only under a Non-Disclosure Agreement (NDA). This Organization will support outside contributors that may not have access to the NDA, so materials available under NDA will not be appropriate for inclusion.
